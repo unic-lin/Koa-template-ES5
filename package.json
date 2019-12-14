@@ -1,20 +1,13 @@
 {
   "name": "Koa-Template-ES5",
   "version": "1.0.0",
-  "description": "koa use module export develop web server template",
+  "private": "<%=private%>",
+  "description": "<%=description%>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/unic-lin/Koa-template-ES5.git"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/unic-lin/Koa-template-ES5/issues"
-  },
-  "homepage": "https://github.com/unic-lin/Koa-template-ES5#readme"
+  "author": "<%=author%>",
+  "license": "<%=license%>"
 }
